@@ -1,3 +1,84 @@
 ---
 title: "Research"
+toc: false
 ---
+
+<!-- Fill the links once here, they are reused throughout the page. -->
+
+[anja]: https://sites.google.com/view/anjadurovic/about?authuser=0 
+[nonna]: https://www.sciencespo.fr/centre-etudes-europeennes/fr/annuaire/mayer-nonna/
+[jan]: https://rovny.org/
+[luis]: https://luissattelmayer.github.io/website/
+[malo]: https://malojan.github.io/website/
+
+
+## Published articles
+
+**How gender and attitudes towards gender and sexuality shaped votes in the 2024 European Parliament elections in France**\
+with [Anja Durovic][anja] and [Nonna Mayer][nonna]\
+*Revue européenne des sciences sociales*, 2025, 63(2).
+[[Journal page](https://shs-cairn-info.scpo.idm.oclc.org/revue-revue-europeenne-des-sciences-sociales-2025-2-page-71?lang=en)]{.small}
+
+::: {.callout-note collapse="true" appearance="simple" icon="false" title="Abstract"}
+This article analyses the impact of gender and attitudes towards gender and sexuality on voting behaviour in the 2024 European Parliament elections in France, in line with recent research on electoral gender gaps, particularly youth gender gaps. Three main findings emerge. First, women did not vote more often than men for left-wing lists; in fact, they voted more often than men for Rassemblement national (RN), a finding that stands in sharp contrast to trends in modern gender gaps or to persistent radical right gender gaps observed in many European countries. Second, and most notably, in contrast again to many other countries, we found no youth gender gap in voting behaviour for the major left-wing or right-wing parties in these elections. Third, attitudes towards gender and sexuality weigh heavily on the results: modern sexism, in particular, is associated with a higher likelihood of voting for the RN list and a lower likelihood of voting for left-wing lists. Overall, the French case highlights that distinguishing between gendered political attitudes and actual gendered voting behaviour remains crucial.
+
+:::
+
+**Ni tout à fait le même ni tout à fait un autre. Le vote aux élections législatives de 2024 au prisme du genre et de l'âge**\
+with [Anja Durovic][anja] and [Nonna Mayer][nonna]\
+*Revue française de science politique*, 2025, 75(1), pp. 39-65.
+[[Journal page](https://shs-cairn-info.scpo.idm.oclc.org/revue-revue-francaise-de-science-politique-2025-1-page-39?lang=fr&tab=texte-integral)]{.small}
+
+::: {.callout-note collapse="true" appearance="simple" icon="false" title="Résumé / Abstract"}
+Cet article analyse les résultats des forces arrivées en tête du premier tour des élections législatives anticipées de 2024, le Nouveau front populaire (NFP) et le Rassemblement national (RN). Il le fait au prisme du genre et de l’(hétéro)sexisme dans une perspective intersectionnelle croisant âge, genre et classe sociale. Quatre résultats en ressortent : les électrices se sont plus mobilisées que les électeurs ; elles ont voté autant que les hommes pour les candidats du RN ; on n’observe pas le modern gender gap qui se dessinait chez les jeunes femmes en 2022 ; et les attitudes sexistes (contre les femmes) et hétérosexistes (contre les LGBTQI+) sans effet sur le vote RN en 2022 ont cette année deux effets symétriques : elles augmentent la probabilité de voter pour le RN et diminuent celles de voter pour le NFP.
+
+
+
+This article analyses the first-round results of the leading political players in the 2024 snap legislative elections — the Nouveau Front populaire (NFP) and the Rassemblement national (RN) — through the lens of gender and (hetero)sexism, adopting an intersectional perspective that considers age, gender, and social class. Four key findings emerge: women turned out to vote in greater numbers than men; they voted for RN candidates at rates similar to those of their male counterparts; the “modern gender gap” observed among young women in 2022 is no longer apparent; and sexist (anti-women) and heterosexist (anti-LGBTQI+) attitudes — which had no effect on RN support in 2022 — now exert symmetrical effects: they increase the likelihood of voting for the RN while decreasing the likelihood of voting for the NFP.
+
+
+:::
+
+## Working papers
+
+**When Gender Attitudes Become Political: Relative Gender Attitudes and Radical Right Parties Support in Europe**\
+*Revise and resubmit, West European Politics *
+<!-- Check the title: the working draft and the submitted version may differ. -->
+
+::: {.callout-note collapse="true" appearance="simple" icon="false" title="Abstract"}
+Gender attitudes (GA) are well-established predictors of support for radical right parties (RRPs), yet their political effects vary across individuals and contexts. This article argues that GA become politically consequential not simply because individuals hold such attitudes, but because of how these are positioned relative to prevailing social norms within their reference groups. I introduce the concept of relative gender attitudes, defined as the extent to which an individual's GA are normatively marginal among their reference group (here, others sharing similar gender, age, education, and national gender equality context). Using European Social Survey 2023 data, I demonstrate that traditional gender attitudes are more strongly associated with RRP vote when they are marginal within one's reference group, while hostile sexism shows no comparable pattern. These findings emphasise the importance of group-based normative positioning in the activation of GA and explain why similar attitudes have different electoral consequences across groups and contexts.
+:::
+
+**Who's Asking? Interviewer Gender and the Expression of Sexist Attitudes**\
+Working paper, 2026. 
+<!-- The draft is marked "very early draft, do not circulate": consider no PDF link for now. -->
+
+::: {.callout-note collapse="true" appearance="simple" icon="false" title="Abstract"}
+Sexist attitudes are not expressed in a vacuum: individuals may adjust what they say depending on who asks the question. This paper examines how interviewer gender shapes the expression of sexist attitudes using European Social Survey data. I argue that interviewer effects are not only sources of measurement error, but traces of norm-sensitive expression. Leveraging plausibly as-if random variation in interviewer gender, I estimate how reported traditional sexism varies by interviewer gender, respondent gender, and regional gender equality. The results show that respondents report slightly lower levels of sexism when interviewed by a woman, but this average association conceals important heterogeneity. Interviewer-gender effects vary across respondent gender and regional gender equality, with women showing especially context-dependent responses. Rather than revealing a simple bias, these differences suggest that sexist attitudes are expressed differently depending on the interactional setting in which they are reported.
+:::
+
+**Not in the Picture: Visual Descriptive Representation and Gender Gaps in Parties' Visual Communication**\
+with [Luis Sattelmayer][luis] and [Malo Jan][malo]\
+Working paper.
+
+::: {.callout-note collapse="true" appearance="simple" icon="false" title="Abstract"}
+Research on women's political representation measures who holds office. Yet few citizens have an accurate picture of a party's parliamentary composition, and what they encounter far more directly are the images parties circulate. Party imagery is also less constrained than institutional inclusion, since portraying women requires no nomination and takes no seat from anyone else. We study how parties represent women in their own visual communication, examining how often women appear (presence), in what thematic contexts (placement), and how visually foregrounded they are when they do (salience). Using computer vision on 250,000 images posted by 196 parties on Instagram across 18 countries from account creation to the end of 2023, we detect and gender-classify every face, identify party leaders using visual embeddings, and match images to the captions' policy domains. We find that women account for only 21\% of all detected faces. Visual presence tracks parties' institutional gender composition, but consistently falls short of it. It varies across party families, and is higher under women leaders, though even there it reaches only about a third of detected faces, and under a quarter once the leader's own face is excluded. Where women appear, their placement is clearly gendered by policy domain. Their faces are also larger and placed more centrally than men's: parties show women prominently and centrally, but rarely. This has implications for how representation is measured and studied. In the images parties choose to send the public, women are too often simply not in the picture.
+
+:::
+
+**Splitting on Sexism? The Evolving Nature of the Radical Right in Europe**\
+with [Jan Rovny][jan]\
+Work in progress.
+
+::: {.callout-note collapse="true" appearance="simple" icon="false" title="Abstract"}
+Radical right parties have become increasingly mainstreamed across Europe, entering parliaments, gaining vote share, and moderating parts of their agenda, especially on immigration and economic issues. This mainstreaming may open space for new challengers to differentiate themselves by adopting more radical positions, including more explicitly masculinist and anti-feminist positions. This paper examines whether the radical right party family is splitting between established and newer parties, using Chapel Hill Expert Survey data on the supply side and European Social Survey data (2023) on the demand side. On the supply side, new radical right parties, classified by their year of parliamentary entry, are found to hold more radical positions than established ones on women's rights, immigration, climate policy, and economic liberalism. On the demand side, we show that support for new over established radical right parties is strongly patterned by age and gender: young men are the group most likely to favor new parties, while older men and women, and especially older women, are considerably less likely to do so. This generational and gendered divide holds even after accounting for socio-demographic and attitudinal controls, suggesting that new radical right voters are not simply more radical across the board but hold a distinct political profile. The findings point to an emerging split within the radical right backlash, between parties that have mainstreamed and newer, more radical challengers building support among young men.
+:::
+
+<!-- Optional, once there is something to show:
+
+## Work in progress
+
+**Gender-age divides in gender attitudes among young people**\
+Contribution to a Cambridge Elements project, with REPLACE coauthors.
+
+-->

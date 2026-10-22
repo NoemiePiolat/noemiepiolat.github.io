@@ -1,5 +1,37 @@
 ---
 title: "Teaching"
+toc: false
 ---
 
+## Courses
 
+### 2026
+
+**Introduction to Comparative Politics**\
+Instructor, undergraduate level, in English, 24h. Sciences Po, Nancy campus.\
+Student satisfaction: not yet available (course in progress).\
+[[Syllabus](comp_pol_syllabus.pdf)]{.small}
+
+**Gender and Political Behavior in a Comparative Perspective**\
+Instructor, undergraduate level, in English, 24h. Sciences Po, Paris campus.\
+Student satisfaction: not yet available (course in progress).\
+[[Syllabus](gender_syllabus)]{.small}
+
+**Introduction to Political Science**\
+Instructor, undergraduate level, in French, 24h. Sciences Po, Paris campus.\
+Student satisfaction: 100%.\
+[[Syllabus](isp_26_syllabus)]{.small}
+
+### 2025
+
+**Introduction to Political Science**\
+Instructor, undergraduate level, in French, 24h. Sciences Po, Paris campus.\
+Student satisfaction: 95%.\
+[[Syllabus](isp_25_syllabus)]{.small}
+
+**Introduction to Quantitative Methods**\
+Instructor, graduate level, in English, 12h. Sciences Po, Paris campus.\
+Student satisfaction: 90%.
+
+**Introduction to Political Science**\
+Teaching assistant, undergraduate level, in French, 16h. Sciences Po, Paris campus.

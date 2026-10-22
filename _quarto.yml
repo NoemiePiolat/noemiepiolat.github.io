@@ -8,8 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
-      - teaching.qmd
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
     right:
       - icon: envelope
         href: mailto:noemie.piolat@sciencespo.fr
