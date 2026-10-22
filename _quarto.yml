@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Noémie Piolat"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - teaching.qmd
+    right:
+      - icon: envelope
+        href: mailto:noemie.piolat@sciencespo.fr
+      - icon: linkedin
+        href: www.linkedin.com/in/noémie-piolat-770b05230 
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+

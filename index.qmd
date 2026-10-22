@@ -1,0 +1,20 @@
+---
+title: "Noémie Piolat"
+subtitle: "PhD candidate, Sciences Po"
+image: photo_site.jpg
+about:
+  template: trestles
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:noemie.piolat@sciencespo.fr
+---
+
+I am a doctoral candidate in comparative politics at the [Centre for European Studies and Comparative Politics](https://www.sciencespo.fr/centre-etudes-europeennes/en/) (CEE) at [Sciences Po](https://www.sciencespo.fr/en/), Paris. My research looks at how gender norms and sexist attitudes shape political behaviour in Europe, with a focus on electoral and partisan dynamics and support for the radical right. 
+
+My dissertation draws on comparative survey data and quantitative methods, as well as on focus groups. 
+
+My research has been published in the Revue française de science politique and the Revue européenne des sciences sociales.
+
+I also teach introductory political science, comparative politics, and gender and political behaviour as well as graduate courses in quantitative methods.

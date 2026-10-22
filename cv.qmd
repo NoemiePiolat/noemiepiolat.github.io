@@ -1,0 +1,10 @@
+---
+title: "cv"
+---
+
+<iframe
+    src="CV_PIOLAT.pdf"
+    width="100%"
+    height="1000px">
+</iframe>
+
