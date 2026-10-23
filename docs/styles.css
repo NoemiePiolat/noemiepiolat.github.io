@@ -139,5 +139,12 @@ p, li { line-height: 1.6; }
   font-style: italic;
 }
 
+/* Justified text */
+.hero-text p,
+.entry-body p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 /* Same font in the navigation on every page */
 .navbar, .navbar .nav-link { font-family: var(--body-font); }
