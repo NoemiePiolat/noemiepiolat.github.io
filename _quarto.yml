@@ -26,6 +26,8 @@ website:
         href: mailto:noemie.piolat@sciencespo.fr
       - icon: linkedin
         href: https://www.linkedin.com/in/noémie-piolat-770b05230
+      - icon: bluesky
+        href: http://bsky.app/profile/npiolat.bsky.social
 
 format:
   html:

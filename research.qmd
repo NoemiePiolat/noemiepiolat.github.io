@@ -1,7 +1,7 @@
 ---
 title: "Research"
 toc: false
-description: "Research by Noémie Piolat on sexism, gender norms and political behaviour in Europe: published articles and working papers."
+description: ""
 ---
 
 <!-- Fill the links once here, they are reused throughout the page. -->

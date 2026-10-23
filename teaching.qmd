@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 toc: false
-description: "Courses taught by Noémie Piolat at Sciences Po: comparative politics, gender and political behaviour, introduction to political science and quantitative methods."
+description: "Courses that I taught at Sciences Po."
 ---
 
 ## Courses
