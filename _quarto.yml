@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Noémie Piolat"
+  favicon: favicon.png
   navbar:
     left:
       - href: index.qmd
@@ -18,10 +19,14 @@ website:
       - icon: envelope
         href: mailto:noemie.piolat@sciencespo.fr
       - icon: linkedin
-        href: www.linkedin.com/in/noémie-piolat-770b05230 
+        href: https://www.linkedin.com/in/noémie-piolat-770b05230
 
 format:
   html:
-    theme: litera
+    theme: [litera, theme.scss]
     css: styles.css
-
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">

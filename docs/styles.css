@@ -1,1 +1,132 @@
-/* css styles */
+:root {
+  --body-font: "Source Sans 3", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  --head-font: "Lora", Georgia, "Times New Roman", serif;
+  --royal: #4169E1;
+  --royal-dark: #2d4fbd;
+  --royal-tint: #eef2fd;
+  --line: #dde4f7;
+  --ink: #1f2430;
+  --muted: #5b6475;
+}
+
+/* Navigation */
+.navbar {
+  background: #fff !important;
+  border-bottom: 1px solid var(--line);
+  box-shadow: none;
+}
+.navbar .navbar-title {
+  font-family: "Lora", Georgia, serif;
+  font-weight: 600;
+  color: var(--ink) !important;
+}
+.navbar .nav-link {
+  color: var(--muted) !important;
+  font-weight: 600;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 0.35rem;
+}
+.navbar .nav-link:hover { color: var(--royal) !important; }
+.navbar .nav-link.active {
+  color: var(--royal) !important;
+  border-bottom-color: var(--royal);
+}
+
+/* Headings */
+h1, h2, h3 { color: var(--ink); }
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--royal);
+  display: inline-block;
+}
+
+/* Home: text on the left, photo on the right */
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 17rem;
+  gap: 3rem;
+  align-items: start;
+  margin-top: 1.5rem;
+}
+.hero-name { font-size: 2.4rem; margin: 0 0 0.2rem 0; border: 0; }
+.hero-title { font-size: 1.15rem; color: var(--muted); margin-bottom: 1.5rem; }
+.hero-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 10px 10px 0 var(--royal-tint);
+}
+.hero-photo p, .hero-photo figure { margin: 0; }
+.hero-buttons { margin-top: 1.8rem; display: flex; flex-wrap: wrap; gap: 0.6rem; }
+.hero-buttons .btn { font-weight: 600; }
+.btn-primary { background-color: var(--royal); border-color: var(--royal); color: #fff !important; }
+.btn-primary:hover { background-color: var(--royal-dark); border-color: var(--royal-dark); }
+
+@media (max-width: 768px) {
+  .hero { grid-template-columns: 1fr; gap: 1.5rem; }
+  .hero-photo { order: -1; max-width: 15rem; }
+}
+
+/* Research and teaching entries: label on the left, content on the right */
+.entry {
+  display: grid;
+  grid-template-columns: 8rem minmax(0, 1fr);
+  gap: 1.5rem;
+  padding: 1.4rem 0;
+  border-top: 1px solid var(--line);
+}
+.entry:last-of-type { border-bottom: 1px solid var(--line); }
+.entry-meta {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--royal);
+  padding-top: 0.35rem;
+}
+.entry-body p { margin-bottom: 0.6rem; }
+.course + .course { margin-top: 1.4rem; }
+@media (max-width: 700px) {
+  .entry { grid-template-columns: 1fr; gap: 0.3rem; }
+}
+
+/* Small link buttons (journal page, syllabus) */
+a.pill {
+  display: inline-block;
+  border: 1px solid var(--royal);
+  border-radius: 999px;
+  padding: 0.05rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 0.3rem;
+}
+a.pill:hover { background: var(--royal); color: #fff; }
+
+/* Abstracts */
+.callout.callout-style-simple {
+  border-left: 3px solid var(--royal) !important;
+  background: var(--royal-tint);
+  border-radius: 0 4px 4px 0;
+}
+.callout.callout-style-simple .callout-title { color: var(--royal-dark); font-weight: 600; }
+
+/* Fonts: the Litera theme sets a serif for paragraphs, so set the body font explicitly */
+body, p, li, td, th, .callout-body, .entry-body { font-family: var(--body-font); }
+h1, h2, h3, h4, .navbar .navbar-title { font-family: var(--head-font); }
+p, li { line-height: 1.6; }
+
+/* Mobile menu button, visible on the white navbar */
+.navbar-toggler { border: 0; }
+.navbar-toggler:focus { box-shadow: none; }
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%231f2430' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+.satisfaction {
+  color: #2f855a;
+  font-style: italic;
+}

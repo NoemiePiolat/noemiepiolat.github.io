@@ -1,20 +1,33 @@
 ---
-title: "Noémie Piolat"
-subtitle: "PhD candidate, Sciences Po"
-image: photo_site.jpg
-about:
-  template: trestles
-  image-width: 14em
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:noemie.piolat@sciencespo.fr
+pagetitle: "Noémie Piolat"
 ---
 
-I am a doctoral candidate in comparative politics at the [Centre for European Studies and Comparative Politics](https://www.sciencespo.fr/centre-etudes-europeennes/en/) (CEE) at [Sciences Po](https://www.sciencespo.fr/en/), Paris. My research looks at how gender norms and sexist attitudes shape political behaviour in Europe, with a focus on electoral and partisan dynamics and support for the radical right. 
+::: {.hero}
 
-My dissertation draws on comparative survey data and quantitative methods, as well as on focus groups. 
+::: {.hero-text}
+
+<h1 class="hero-name">Noémie Piolat</h1>
+
+<p class="hero-title">PhD candidate in comparative politics, Sciences Po (CEE)</p>
+
+I am a doctoral candidate in comparative politics at the [Centre for European Studies and Comparative Politics](https://www.sciencespo.fr/centre-etudes-europeennes/en/) (CEE) at [Sciences Po](https://www.sciencespo.fr/en/), Paris. My research looks at how gender norms and sexist attitudes shape political behaviour in Europe, with a focus on electoral and partisan dynamics and support for the radical right.
+
+My dissertation draws on comparative survey data and quantitative methods, as well as on focus groups.
 
 My research has been published in the Revue française de science politique and the Revue européenne des sciences sociales.
 
 I also teach classes such as Introduction to Political Science, Comparative Politics, and Gender and Political Behaviour as well as graduate courses in quantitative methods.
+
+<p class="hero-buttons">
+<a class="btn btn-primary" href="mailto:noemie.piolat@sciencespo.fr"><i class="bi bi-envelope"></i> Email</a>
+<a class="btn btn-primary" href="https://www.linkedin.com/in/noémie-piolat-770b05230"><i class="bi bi-linkedin"></i> LinkedIn</a>
+<a class="btn btn-primary" href="cv.html"><i class="bi bi-file-earmark-person"></i> CV</a>
+</p>
+
+:::
+
+::: {.hero-photo}
+![](photo_web.jpg){fig-alt="Portrait of Noémie Piolat"}
+:::
+
+:::

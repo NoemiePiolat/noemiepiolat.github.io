@@ -5,33 +5,57 @@ toc: false
 
 ## Courses
 
-### 2026
+::: {.entry}
+::: {.entry-meta}
+2026
+:::
 
+::: {.entry-body}
+::: {.course}
 **Introduction to Comparative Politics**\
 Instructor, undergraduate level, in English, 24h. Sciences Po, Nancy campus.\
-Student satisfaction: not yet available (course in progress).\
-[[Syllabus](comp_pol_syllabus.pdf)]{.small}
+[Student satisfaction: not yet available (course in progress).]{.satisfaction}\
+[Syllabus](comp_pol_syllabus.pdf){.pill}
+:::
 
+::: {.course}
 **Gender and Political Behavior in a Comparative Perspective**\
 Instructor, undergraduate level, in English, 24h. Sciences Po, Paris campus.\
-Student satisfaction: not yet available (course in progress).\
-[[Syllabus](gender_syllabus)]{.small}
+[Student satisfaction: not yet available (course in progress).]{.satisfaction}\
+[Syllabus](gender_syllabus.pdf){.pill}
+:::
 
+::: {.course}
 **Introduction to Political Science**\
 Instructor, undergraduate level, in French, 24h. Sciences Po, Paris campus.\
-Student satisfaction: 100%.\
-[[Syllabus](isp_26_syllabus)]{.small}
+[Student satisfaction: 100%.]{.satisfaction}\
+[Syllabus](isp_26_syllabus.pdf){.pill}
+:::
+:::
+:::
 
-### 2025
+::: {.entry}
+::: {.entry-meta}
+2025
+:::
 
+::: {.entry-body}
+::: {.course}
 **Introduction to Political Science**\
 Instructor, undergraduate level, in French, 24h. Sciences Po, Paris campus.\
-Student satisfaction: 95%.\
-[[Syllabus](isp_25_syllabus)]{.small}
+[Student satisfaction: 95%.]{.satisfaction}\
+[Syllabus](isp_25_syllabus.pdf){.pill}
+:::
 
+::: {.course}
 **Introduction to Quantitative Methods**\
 Instructor, graduate level, in English, 12h. Sciences Po, Paris campus.\
-Student satisfaction: 90%.
+[Student satisfaction: 90%.]{.satisfaction}
+:::
 
+::: {.course}
 **Introduction to Political Science**\
 Teaching assistant, undergraduate level, in French, 16h. Sciences Po, Paris campus.
+:::
+:::
+:::

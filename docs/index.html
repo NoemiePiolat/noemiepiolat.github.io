@@ -33,15 +33,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1b5cbb678aba238cc9ecc8dbef59e0a8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b8ef06f59c54221cd005d67ce55cbf95.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,6 +71,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&amp;family=Source+Sans+3:wght@400;600&amp;display=swap" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -103,6 +108,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -111,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./www.linkedin.com/in/noémie-piolat-770b05230"> <i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/noémie-piolat-770b05230"> <i class="bi bi-linkedin" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -128,37 +137,44 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="photo_site.jpg" class="about-image
-  rounded " style="width: 14em;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Noémie Piolat</h1>
-<p class="subtitle lead">PhD candidate, Sciences Po</p>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="mailto:noemie.piolat@sciencespo.fr" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="hero-name title display-7">
+Noémie Piolat
+</h1></header>
+
+
+
+
+<div class="hero">
+<div class="hero-text">
+
+<p class="hero-title">
+PhD candidate in comparative politics, Sciences Po (CEE)
+</p>
 <p>I am a doctoral candidate in comparative politics at the <a href="https://www.sciencespo.fr/centre-etudes-europeennes/en/">Centre for European Studies and Comparative Politics</a> (CEE) at <a href="https://www.sciencespo.fr/en/">Sciences Po</a>, Paris. My research looks at how gender norms and sexist attitudes shape political behaviour in Europe, with a focus on electoral and partisan dynamics and support for the radical right.</p>
 <p>My dissertation draws on comparative survey data and quantitative methods, as well as on focus groups.</p>
 <p>My research has been published in the Revue française de science politique and the Revue européenne des sciences sociales.</p>
-<p>I also teach introductory political science, comparative politics, and gender and political behaviour as well as graduate courses in quantitative methods.</p>
-
-
-</main></div>
+<p>I also teach classes such as Introduction to Political Science, Comparative Politics, and Gender and Political Behaviour as well as graduate courses in quantitative methods.</p>
+<p class="hero-buttons">
+<a class="btn btn-primary" href="mailto:noemie.piolat@sciencespo.fr"><i class="bi bi-envelope"></i> Email</a> <a class="btn btn-primary" href="https://www.linkedin.com/in/noémie-piolat-770b05230"><i class="bi bi-linkedin"></i> LinkedIn</a> <a class="btn btn-primary" href="cv.html"><i class="bi bi-file-earmark-person"></i> CV</a>
+</p>
 </div>
- <!-- /main -->
+<div class="hero-photo">
+<p><img src="photo_web.jpg" class="img-fluid" alt="Portrait of Noémie Piolat"></p>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
