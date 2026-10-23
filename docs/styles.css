@@ -1,3 +1,11 @@
+/* Self-hosted fonts (Lora and Source Sans 3), so every page loads the same fonts */
+@font-face { font-family: "Lora"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/lora-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Lora"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/lora-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: italic; font-weight: 400; font-display: swap; src: url("fonts/source-sans-3-latin-400-italic.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-style: italic; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-italic.woff2") format("woff2"); }
+
 :root {
   --body-font: "Source Sans 3", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
   --head-font: "Lora", Georgia, "Times New Roman", serif;
@@ -130,3 +138,6 @@ p, li { line-height: 1.6; }
   color: #2f855a;
   font-style: italic;
 }
+
+/* Same font in the navigation on every page */
+.navbar, .navbar .nav-link { font-family: var(--body-font); }
