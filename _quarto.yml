@@ -3,9 +3,13 @@ project:
   output-dir: docs
   resources:
     - fonts/
+    - google774210055779e0f5.html
 
 website:
   title: "Noémie Piolat"
+  site-url: https://noemiepiolat.github.io
+  description: "Noémie Piolat, PhD candidate in comparative politics at Sciences Po (CEE). Research on sexism, gender norms and political behaviour in Europe."
+  open-graph: true
   favicon: favicon.png
   navbar:
     left:

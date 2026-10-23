@@ -1,5 +1,7 @@
 ---
-pagetitle: "Noémie Piolat"
+pagetitle: "Noémie Piolat | PhD candidate in comparative politics, Sciences Po"
+title-prefix: ""
+description: "Noémie Piolat, PhD candidate in comparative politics at Sciences Po (CEE). Research on sexism, gender norms and political behaviour in Europe."
 ---
 
 ::: {.hero}

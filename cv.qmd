@@ -1,5 +1,6 @@
 ---
 title: "CV"
+description: "Curriculum vitae of Noémie Piolat, PhD candidate in comparative politics at Sciences Po (CEE)."
 ---
 
 <iframe
